@@ -50,11 +50,11 @@
 			"description": "<p>See the Cthulhu Invictus</p>"
 		},
 		"Climb": {
-			"name": "Climb",
+			"name": "Лазіння",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Computer Use": {
-			"name": "Computer Use",
+			"name": "Користування комп'ютером",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Credit Rating": {
@@ -70,7 +70,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Disguise": {
-			"name": "Disguise",
+			"name": "Маскування",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Diving": {
@@ -78,7 +78,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Dodge": {
-			"name": "Dodge",
+			"name": "Ухиляння (половина СПР)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Drive Auto": {
@@ -162,7 +162,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Firearms (Handgun)": {
-			"name": "Firearms (Handgun)",
+			"name": "Стрільба (пістолет)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Firearms (Heavy Weapons)": {
@@ -174,7 +174,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Firearms (Rifle/Shotgun)": {
-			"name": "Firearms (Rifle/Shotgun)",
+			"name": "Стрільба (карабін/дробовик)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Firearms (Submachine Gun)": {
@@ -190,7 +190,7 @@
 			"description": "<p>See Down Darker Trails</p>"
 		},
 		"History": {
-			"name": "History",
+			"name": "Історія",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Hypnosis": {
@@ -198,15 +198,15 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Intimidate": {
-			"name": "Intimidate",
+			"name": "Залякування",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Jump": {
-			"name": "Jump",
+			"name": "Стрибок",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Language (Any)": {
-			"name": "Language (Any)",
+			"name": "Мова (іноземна)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Language (Own)": {
@@ -218,7 +218,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Library Use": {
-			"name": "Library Use",
+			"name": "Користування бібліотекою",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Listen": {
@@ -226,7 +226,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Locksmith": {
-			"name": "Locksmith",
+			"name": "Слюсарство",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Lore (Any)": {
@@ -238,7 +238,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Medicine": {
-			"name": "Medicine",
+			"name": "Медицина",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Natural World": {
@@ -250,7 +250,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Occult": {
-			"name": "Occult",
+			"name": "Окультизм",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Operate Heavy Machinery": {
@@ -266,11 +266,11 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Psychoanalysis": {
-			"name": "Psychoanalysis",
+			"name": "Психоаналіз",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Psychology": {
-			"name": "Psychology",
+			"name": "Психологія",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Read Lips": {
@@ -358,7 +358,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Swim": {
-			"name": "Swim",
+			"name": "Плавання",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Track": {
