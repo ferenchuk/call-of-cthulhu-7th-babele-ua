@@ -1,0 +1,377 @@
+{
+	"label": "Уміння",
+	"entries": {
+		"Accounting": {
+			"name": "Бухгалтерія",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Animal Handling": {
+			"name": "Animal Handling",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Anthropology": {
+			"name": "Антропологія",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Appraise": {
+			"name": "Оцінка майна",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Archaeology": {
+			"name": "Археологія",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Art/Craft (Acting)": {
+			"name": "Art/Craft (Acting)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Art/Craft (Any)": {
+			"name": "Art/Craft (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Art/Craft (Fine Art)": {
+			"name": "Art/Craft (Fine Art)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Art/Craft (Forgery)": {
+			"name": "Art/Craft (Forgery)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Art/Craft (Photography)": {
+			"name": "Art/Craft (Photography)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Charm": {
+			"name": "Charm",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Civics": {
+			"name": "Civics",
+			"description": "<p>See the Cthulhu Invictus</p>"
+		},
+		"Climb": {
+			"name": "Climb",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Computer Use": {
+			"name": "Computer Use",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Credit Rating": {
+			"name": "Credit Rating",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Cthulhu Mythos": {
+			"name": "Міти Ктулху",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Demolitions": {
+			"name": "Demolitions",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Disguise": {
+			"name": "Disguise",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Diving": {
+			"name": "Diving",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Dodge": {
+			"name": "Dodge",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Drive Auto": {
+			"name": "Drive Auto",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Drive Carriage": {
+			"name": "Drive Carriage",
+			"description": "<p>See the Cthulhu by Gaslight</p>"
+		},
+		"Drive Horse / Oxen": {
+			"name": "Drive Horse / Oxen",
+			"description": "<p>See the Cthulhu Invictus</p>"
+		},
+		"Drive Wagon / Coach": {
+			"name": "Drive Wagon / Coach",
+			"description": "<p>See Down Darker Trails</p>"
+		},
+		"Electrical Repair": {
+			"name": "Electrical Repair",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Electronics": {
+			"name": "Electronics",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Empire": {
+			"name": "Empire",
+			"description": "<p>See the Cthulhu Invictus</p>"
+		},
+		"Fast Talk": {
+			"name": "Fast Talk",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Axe)": {
+			"name": "Fighting (Axe)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Brawl)": {
+			"name": "Fighting (Brawl)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Chainsaw)": {
+			"name": "Fighting (Chainsaw)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Flail)": {
+			"name": "Fighting (Flail)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Garrote)": {
+			"name": "Fighting (Garrote)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Spear)": {
+			"name": "Fighting (Spear)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Sword)": {
+			"name": "Fighting (Sword)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Throw)": {
+			"name": "Fighting (Throw)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Whip)": {
+			"name": "Fighting (Whip)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Artillery)": {
+			"name": "Firearms (Artillery)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Bow)": {
+			"name": "Firearms (Bow)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Flamethrower)": {
+			"name": "Firearms (Flamethrower)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Handgun)": {
+			"name": "Firearms (Handgun)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Heavy Weapons)": {
+			"name": "Firearms (Heavy Weapons)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Machine Gun)": {
+			"name": "Firearms (Machine Gun)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Rifle/Shotgun)": {
+			"name": "Firearms (Rifle/Shotgun)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Submachine Gun)": {
+			"name": "Firearms (Submachine Gun)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"First Aid": {
+			"name": "Перша допомога",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Gambling": {
+			"name": "Gambling",
+			"description": "<p>See Down Darker Trails</p>"
+		},
+		"History": {
+			"name": "History",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Hypnosis": {
+			"name": "Hypnosis",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Intimidate": {
+			"name": "Intimidate",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Jump": {
+			"name": "Jump",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Language (Any)": {
+			"name": "Language (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Language (Own)": {
+			"name": "Мова (рідна)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Law": {
+			"name": "Law",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Library Use": {
+			"name": "Library Use",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Listen": {
+			"name": "Listen",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Locksmith": {
+			"name": "Locksmith",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Lore (Any)": {
+			"name": "Lore (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Mechanical Repair": {
+			"name": "Mechanical Repair",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Medicine": {
+			"name": "Medicine",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Natural World": {
+			"name": "Natural World",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Navigate": {
+			"name": "Navigate",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Occult": {
+			"name": "Occult",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Operate Heavy Machinery": {
+			"name": "Operate Heavy Machinery",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Persuade": {
+			"name": "Persuade",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Pilot (Any)": {
+			"name": "Pilot (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Psychoanalysis": {
+			"name": "Psychoanalysis",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Psychology": {
+			"name": "Psychology",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Read Lips": {
+			"name": "Read Lips",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Ride": {
+			"name": "Ride",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Rope Use": {
+			"name": "Rope Use",
+			"description": "<p>See Down Darker Trails</p>"
+		},
+		"Science (Any)": {
+			"name": "Science (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Astronomy)": {
+			"name": "Science (Astronomy)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Biology)": {
+			"name": "Science (Biology)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Botany)": {
+			"name": "Science (Botany)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Chemistry)": {
+			"name": "Science (Chemistry)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Cryptography)": {
+			"name": "Science (Cryptography)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Engineering)": {
+			"name": "Science (Engineering)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Forensics)": {
+			"name": "Science (Forensics)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Geology)": {
+			"name": "Science (Geology)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Mathematics)": {
+			"name": "Science (Mathematics)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Meteorology)": {
+			"name": "Science (Meteorology)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Pharmacy)": {
+			"name": "Science (Pharmacy)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Physics)": {
+			"name": "Science (Physics)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Zoology)": {
+			"name": "Science (Zoology)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Sleight of Hand": {
+			"name": "Sleight of Hand",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Spot Hidden": {
+			"name": "Spot Hidden",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Stealth": {
+			"name": "Stealth",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Survival (Any)": {
+			"name": "Survival (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Swim": {
+			"name": "Swim",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Track": {
+			"name": "Track",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Track (Any)": {
+			"name": "Track (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Trap": {
+			"name": "Trap",
+			"description": "<p>See Down Darker Trails</p>"
+		}
+	}
+}
