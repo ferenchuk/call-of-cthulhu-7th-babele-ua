@@ -22,23 +22,23 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Art/Craft (Acting)": {
-			"name": "Art/Craft (Acting)",
+			"name": "Мистецтво/ремесло (Acting)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Art/Craft (Any)": {
-			"name": "Art/Craft (Any)",
+			"name": "Мистецтво/ремесло (Any)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Art/Craft (Fine Art)": {
-			"name": "Art/Craft (Fine Art)",
+			"name": "Мистецтво/ремесло(Fine Art)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Art/Craft (Forgery)": {
-			"name": "Art/Craft (Forgery)",
+			"name": "Мистецтво/ремесло (Forgery)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Art/Craft (Photography)": {
-			"name": "Art/Craft (Photography)",
+			"name": "Мистецтво/ремесло (Фотографування)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Charm": {
@@ -74,7 +74,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Diving": {
-			"name": "Diving",
+			"name": "Дайвінг (пірнання)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Dodge": {
@@ -114,7 +114,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Fighting (Axe)": {
-			"name": "Бій (Axe)",
+			"name": "Бій (Сокира)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Fighting (Brawl)": {
@@ -134,11 +134,11 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Fighting (Spear)": {
-			"name": "Бій (Spear)",
+			"name": "Бій (Спис)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Fighting (Sword)": {
-			"name": "Бій (Sword)",
+			"name": "Бій (Меч)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Fighting (Throw)": {
@@ -146,23 +146,23 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Fighting (Whip)": {
-			"name": "Бій (Whip)",
+			"name": "Бій (Батіг)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Firearms (Artillery)": {
-			"name": "Стрільба (Artillery)",
+			"name": "Стрільба (Артилерія)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Firearms (Bow)": {
-			"name": "Стрільба (Bow)",
+			"name": "Стрільба (Лук)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Firearms (Flamethrower)": {
-			"name": "Стрільба (Flamethrower)",
+			"name": "Стрільба (Вогнемет)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Firearms (Handgun)": {
-			"name": "Стрільба (пістолет)",
+			"name": "Стрільба (Пістолет)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Firearms (Heavy Weapons)": {
@@ -170,7 +170,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Firearms (Machine Gun)": {
-			"name": "Стрільба (Machine Gun)",
+			"name": "Стрільба (Кулемет)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Firearms (Rifle/Shotgun)": {
@@ -178,7 +178,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Firearms (Submachine Gun)": {
-			"name": "Стрільба (Submachine Gun)",
+			"name": "Стрільба (Пістолет-кулемет)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"First Aid": {
@@ -186,7 +186,7 @@
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
 		"Gambling": {
-			"name": "Gambling",
+			"name": "Азартні ігри",
 			"description": "<p>See Down Darker Trails</p>"
 		},
 		"History": {
