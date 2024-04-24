@@ -1,377 +1,475 @@
 {
 	"label": "Уміння",
-	"entries": {
-		"Accounting": {
+	"entries": [
+		{
+			"id": "Accounting",
 			"name": "Бухгалтерія",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Animal Handling": {
+		{
+			"id": "Acting",
+			"name": "Acting (TODO)",
+			"description": ""
+		},
+		{
+			"id": "Animal Handling",
 			"name": "Animal Handling",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Anthropology": {
+		{
+			"id": "Anthropology",
 			"name": "Антропологія",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Appraise": {
+		{
+			"id": "Appraise",
 			"name": "Оцінка майна",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Archaeology": {
+		{
+			"id": "Archaeology",
 			"name": "Археологія",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Art/Craft (Acting)": {
+		{
+			"id": "Art/Craft (Acting)",
 			"name": "Мистецтво/ремесло (Acting)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Art/Craft (Any)": {
+		{
+			"id": "Art/Craft (Any)",
 			"name": "Мистецтво/ремесло (Any)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Art/Craft (Fine Art)": {
+		{
+			"id": "Art/Craft (Fine Art)",
 			"name": "Мистецтво/ремесло(Fine Art)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Art/Craft (Forgery)": {
+		{
+			"id": "Art/Craft (Forgery)",
 			"name": "Мистецтво/ремесло (Forgery)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Art/Craft (Photography)": {
+		{
+			"id": "Art/Craft (Photography)",
 			"name": "Мистецтво/ремесло (Фотографування)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Charm": {
+		{
+			"id": "Charm",
 			"name": "Шарм",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Civics": {
+		{
+			"id": "Civics",
 			"name": "Civics",
 			"description": "<p>See the Cthulhu Invictus</p>"
 		},
-		"Climb": {
+		{
+			"id": "Climb",
 			"name": "Лазіння",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Computer Use": {
+		{
+			"id": "Computer Use",
 			"name": "Користування комп'ютером",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Credit Rating": {
+		{
+			"id": "Credit Rating",
 			"name": "Достаток (?)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Cthulhu Mythos": {
+		{
+			"id": "Cthulhu Mythos",
 			"name": "Міти Ктулху",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Demolitions": {
+		{
+			"id": "Demolitions",
 			"name": "Demolitions",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Disguise": {
+		{
+			"id": "Disguise",
 			"name": "Маскування",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Diving": {
+		{
+			"id": "Diving",
 			"name": "Дайвінг (пірнання)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Dodge": {
+		{
+			"id": "Dodge",
 			"name": "Ухиляння (половина СПР)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Drive Auto": {
+		{
+			"id": "Drive Auto",
 			"name": "Водіння",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Drive Carriage": {
+		{
+			"id": "Drive Carriage",
 			"name": "Drive Carriage",
 			"description": "<p>See the Cthulhu by Gaslight</p>"
 		},
-		"Drive Horse / Oxen": {
+		{
+			"id": "Drive Horse / Oxen",
 			"name": "Drive Horse / Oxen",
 			"description": "<p>See the Cthulhu Invictus</p>"
 		},
-		"Drive Wagon / Coach": {
+		{
+			"id": "Drive Wagon / Coach",
 			"name": "Drive Wagon / Coach",
 			"description": "<p>See Down Darker Trails</p>"
 		},
-		"Electrical Repair": {
+		{
+			"id": "Electrical Repair",
 			"name": "Ремонт (електроніка)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Electronics": {
+		{
+			"id": "Electronics",
 			"name": "Електроніка",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Empire": {
+		{
+			"id": "Empire",
 			"name": "Empire",
 			"description": "<p>See the Cthulhu Invictus</p>"
 		},
-		"Fast Talk": {
+		{
+			"id": "Fast Talk",
 			"name": "Fast Talk",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Fighting (Axe)": {
+		{
+			"id": "Fighting (Axe)",
 			"name": "Бій (Сокира)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Fighting (Brawl)": {
+		{
+			"id": "Fighting (Brawl)",
 			"name": "Бій (Рукопашний)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Fighting (Chainsaw)": {
+		{
+			"id": "Fighting (Chainsaw)",
 			"name": "Бій (Chainsaw)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Fighting (Flail)": {
+		{
+			"id": "Fighting (Flail)",
 			"name": "Бій (Flail)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Fighting (Garrote)": {
+		{
+			"id": "Fighting (Garrote)",
 			"name": "Бій (Garrote)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Fighting (Spear)": {
+		{
+			"id": "Fighting (Spear)",
 			"name": "Бій (Спис)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Fighting (Sword)": {
+		{
+			"id": "Fighting (Sword)",
 			"name": "Бій (Меч)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Fighting (Throw)": {
+		{
+			"id": "Fighting (Throw)",
 			"name": "Бій (Кидання)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Fighting (Whip)": {
+		{
+			"id": "Fighting (Whip)",
 			"name": "Бій (Батіг)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Firearms (Artillery)": {
+		{
+			"id": "Firearms (Artillery)",
 			"name": "Стрільба (Артилерія)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Firearms (Bow)": {
+		{
+			"id": "Firearms (Bow)",
 			"name": "Стрільба (Лук)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Firearms (Flamethrower)": {
+		{
+			"id": "Firearms (Flamethrower)",
 			"name": "Стрільба (Вогнемет)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Firearms (Handgun)": {
+		{
+			"id": "Firearms (Handgun)",
 			"name": "Стрільба (Пістолет)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Firearms (Heavy Weapons)": {
+		{
+			"id": "Firearms (Heavy Weapons)",
 			"name": "Стрільба (Важка зброя)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Firearms (Machine Gun)": {
+		{
+			"id": "Firearms (Machine Gun)",
 			"name": "Стрільба (Кулемет)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Firearms (Rifle/Shotgun)": {
+		{
+			"id": "Firearms (Rifle/Shotgun)",
 			"name": "Стрільба (карабін/дробовик)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Firearms (Submachine Gun)": {
+		{
+			"id": "Firearms (Submachine Gun)",
 			"name": "Стрільба (Пістолет-кулемет)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"First Aid": {
+		{
+			"id": "First Aid",
 			"name": "Перша допомога",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Gambling": {
+		{
+			"id": "Gambling",
 			"name": "Азартні ігри",
 			"description": "<p>See Down Darker Trails</p>"
 		},
-		"History": {
+		{
+			"id": "History",
 			"name": "Історія",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Hypnosis": {
+		{
+			"id": "Hypnosis",
 			"name": "Гіпноз",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Intimidate": {
+		{
+			"id": "Intimidate",
 			"name": "Залякування",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Jump": {
+		{
+			"id": "Jump",
 			"name": "Стрибок",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Language (Any)": {
+		{
+			"id": "Language (Any)",
 			"name": "Мова (іноземна)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Language (Own)": {
+		{
+			"id": "Language (Own)",
 			"name": "Мова (рідна)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Law": {
+		{
+			"id": "Law",
 			"name": "Правознавство",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Library Use": {
+		{
+			"id": "Library Use",
 			"name": "Користування бібліотекою",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Listen": {
+		{
+			"id": "Listen",
 			"name": "Слух",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Locksmith": {
+		{
+			"id": "Locksmith",
 			"name": "Слюсарство",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Lore (Any)": {
+		{
+			"id": "Lore (Any)",
 			"name": "Lore (Any)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Mechanical Repair": {
+		{
+			"id": "Mechanical Repair",
 			"name": "Ремонт (механіка)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Medicine": {
+		{
+			"id": "Medicine",
 			"name": "Медицина",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Natural World": {
+		{
+			"id": "Natural World",
 			"name": "Природознавство",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Navigate": {
+		{
+			"id": "Navigate",
 			"name": "Орієнтування на місцевості (?)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Occult": {
+		{
+			"id": "Occult",
 			"name": "Окультизм",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Operate Heavy Machinery": {
+		{
+			"id": "Operate Heavy Machinery",
 			"name": "Operate Heavy Machinery",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Persuade": {
+		{
+			"id": "Persuade",
 			"name": "Переконливість",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Pilot (Any)": {
+		{
+			"id": "Pilot (Any)",
 			"name": "Пілотування (Any)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Psychoanalysis": {
+		{
+			"id": "Psychoanalysis",
 			"name": "Психоаналіз",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Psychology": {
+		{
+			"id": "Psychology",
 			"name": "Психологія",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Read Lips": {
+		{
+			"id": "Read Lips",
 			"name": "Читання по губам",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Ride": {
+		{
+			"id": "Ride",
 			"name": "Верхова їзда (?)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Rope Use": {
+		{
+			"id": "Rope Use",
 			"name": "Rope Use",
 			"description": "<p>See Down Darker Trails</p>"
 		},
-		"Science (Any)": {
+		{
+			"id": "Science (Any)",
 			"name": "Наука (Any)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Astronomy)": {
+		{
+			"id": "Science (Astronomy)",
 			"name": "Наука (Астрономія)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Biology)": {
+		{
+			"id": "Science (Biology)",
 			"name": "Наука (Біологія)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Botany)": {
+		{
+			"id": "Science (Botany)",
 			"name": "Наука (Ботаніка)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Chemistry)": {
+		{
+			"id": "Science (Chemistry)",
 			"name": "Наука (Хімія)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Cryptography)": {
+		{
+			"id": "Science (Cryptography)",
 			"name": "Наука (Криптографія)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Engineering)": {
+		{
+			"id": "Science (Engineering)",
 			"name": "Наука (Інженерія)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Forensics)": {
+		{
+			"id": "Science (Forensics)",
 			"name": "Наука (Криміналістика)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Geology)": {
+		{
+			"id": "Science (Geology)",
 			"name": "Наука (Геологія)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Mathematics)": {
+		{
+			"id": "Science (Mathematics)",
 			"name": "Наука (Математика)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Meteorology)": {
+		{
+			"id": "Science (Meteorology)",
 			"name": "Наука (Метеорологія)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Pharmacy)": {
+		{
+			"id": "Science (Pharmacy)",
 			"name": "Наука (Фармацевтика)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Physics)": {
+		{
+			"id": "Science (Physics)",
 			"name": "Наука (Фізика)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Science (Zoology)": {
+		{
+			"id": "Science (Zoology)",
 			"name": "Наука (Зоологія)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Sleight of Hand": {
+		{
+			"id": "Sleight of Hand",
 			"name": "Вправність рук",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Spot Hidden": {
+		{
+			"id": "Spot Hidden",
 			"name": "Пошук прихованого",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Stealth": {
+		{
+			"id": "Stealth",
 			"name": "Непомітність",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Survival (Any)": {
+		{
+			"id": "Survival (Any)",
 			"name": "Виживання (Any)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Swim": {
+		{
+			"id": "Swim",
 			"name": "Плавання",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Track": {
+		{
+			"id": "Track",
 			"name": "Вистежування",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Track (Any)": {
+		{
+			"id": "Track (Any)",
 			"name": "Track (Any)",
 			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
 		},
-		"Trap": {
+		{
+			"id": "Trap",
 			"name": "Пастки (?)",
 			"description": "<p>See Down Darker Trails</p>"
 		}
-	}
+	]
 }
