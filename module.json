@@ -2,7 +2,7 @@
   "name": "call-of-cthulhu-7th-babele-ua",
   "title": "Call of Cthulhu 7th Babele (Ukrainian)",
   "description": "Переклад системи Call of Cthulhu 7e (HavlockV/CoC7-FoundryVTT) українською (Babele) -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) Ukrainian translation using Babele",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "minimumCoreVersion" : "0.10.291",
   "compatibleCoreVersion":"0.10.291",
   "author": "Ivan Ferenchuk",

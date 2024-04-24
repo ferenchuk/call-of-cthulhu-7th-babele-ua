@@ -1,0 +1,37 @@
+{
+	"label": "Приклади",
+	"entries": [
+		{
+			"id": "1920's Setup Example",
+			"name": "Приклад персонажа (1920s)",
+			"description": ""
+		},
+		{
+			"id": "Archetype Example",
+			"name": "Приклад архетипу",
+			"description": null
+		},
+		{
+			"id": "Death ray (prototype)",
+			"name": "Death ray (prototype)",
+			"description": ""
+		},
+		{
+			"id": "Experimental weapon",
+			"name": "Експериментальна зброя",
+			"description": "",
+							"chat": "",
+							"special": ""
+		},
+		{
+			"id": "Occupation Example",
+			"name": "Приклад професії",
+			"description": null
+		},
+		{
+			"id": "Punch",
+			"name": "Удар",
+			"description": ""
+		}
+	]
+}
